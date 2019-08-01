@@ -15,7 +15,7 @@ Palette
 
 ## Ports
 
-Here's a list of ports to other text editors and applications. The original Vim theme can be found here: https://github.com/morhetz/gruvbox
+Here's a list of ports to other text editors and applications. The original Vim theme can be found here: https://github.com/gruvbox-community/gruvbox
 
 ### Alacritty
 
