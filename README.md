@@ -117,6 +117,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
 
+### Tmux
+
+- [Maciej Sypień's port](https://github.com/egel/tmux-gruvbox)
+
 ### Visual Studio
 
 - [UI Theme by Mark Fischer, Jr.](https://github.com/flyingfisch/VSGruvbox)
