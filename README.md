@@ -84,6 +84,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
 
+### Mutt and NeoMutt
+
+- [Stefan Huber's port](https://github.com/shuber2/mutt-gruvbox)
+
 ### Pentadactyl
 
 - [Roman Inflianskas's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
