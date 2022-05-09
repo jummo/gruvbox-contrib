@@ -1,9 +1,6 @@
 [Background]
 Color=40,40,40
 
-[BackgroundIntense]
-Color=40,40,40
-
 [Color0]
 Color=40,40,40
 
@@ -53,9 +50,6 @@ Color=168,153,132
 Color=235,219,178
 
 [Foreground]
-Color=235,219,178
-
-[ForegroundIntense]
 Color=235,219,178
 
 [General]
