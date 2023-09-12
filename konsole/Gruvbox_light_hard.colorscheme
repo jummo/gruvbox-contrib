@@ -1,5 +1,5 @@
 [Background]
-Color=251,241,199
+Color=249,245,215
 
 [Color0]
 Color=251,241,199
@@ -53,6 +53,6 @@ Color=60,56,54
 Color=60,56,54
 
 [General]
-Description=Gruvbox Light
+Description=Gruvbox Light Hard
 Opacity=1
 Wallpaper=
